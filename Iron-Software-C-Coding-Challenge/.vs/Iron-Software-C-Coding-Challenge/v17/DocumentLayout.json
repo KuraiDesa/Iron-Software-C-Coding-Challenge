@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|c:\\users\\rafar\\onedrive\\escritorio\\iron-software-c-coding-challenge\\iron-software-c-coding-challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A661E3C-FBFA-4759-8DBB-6705E1076D44}|..\\Iron-Software-C-Coding-Challenge-Tests\\Iron-Software-C-Coding-Challenge-Tests.csproj|c:\\users\\rafar\\onedrive\\escritorio\\iron-software-c-coding-challenge\\iron-software-c-coding-challenge-tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|c:\\users\\rafar\\onedrive\\escritorio\\iron-software-c-coding-challenge\\iron-software-c-coding-challenge\\oldphonelogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|solutionrelative:oldphonelogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OldPhoneLogica.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\OldPhoneLogica.cs",
+              "RelativeDocumentMoniker": "OldPhoneLogica.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\OldPhoneLogica.cs",
+              "RelativeToolTip": "OldPhoneLogica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:02:44.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge-Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Iron-Software-C-Coding-Challenge-Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge-Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Iron-Software-C-Coding-Challenge-Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:02:07.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:00:20.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

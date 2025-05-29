@@ -1,0 +1,15 @@
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\bin\Debug\net8.0\Iron-Software-C-Coding-Challenge.exe
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\bin\Debug\net8.0\Iron-Software-C-Coding-Challenge.deps.json
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\bin\Debug\net8.0\Iron-Software-C-Coding-Challenge.runtimeconfig.json
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\bin\Debug\net8.0\Iron-Software-C-Coding-Challenge.dll
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\bin\Debug\net8.0\Iron-Software-C-Coding-Challenge.pdb
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge.AssemblyInfoInputs.cache
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge.AssemblyInfo.cs
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge.sourcelink.json
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge.dll
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\refint\Iron-Software-C-Coding-Challenge.dll
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge.pdb
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge.genruntimeconfig.cache
+C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge\obj\Debug\net8.0\ref\Iron-Software-C-Coding-Challenge.dll
