@@ -1,6 +1,0 @@
-C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge-Tests\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge-Tests.csproj.AssemblyReference.cache
-C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge-Tests\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge-Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge-Tests\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge-Tests.AssemblyInfoInputs.cache
-C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge-Tests\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge-Tests.AssemblyInfo.cs
-C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge-Tests\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge-Tests.csproj.CoreCompileInputs.cache
-C:\Users\rafar\OneDrive\Escritorio\Iron-Software-C-Coding-Challenge\Iron-Software-C-Coding-Challenge-Tests\obj\Debug\net8.0\Iron-Software-C-Coding-Challenge-Tests.sourcelink.json
