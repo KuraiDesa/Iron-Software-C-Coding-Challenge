@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iron-Software-C-Coding-Challenge-Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a94ee241f35fb11c400f4dba7943c8a592adfad2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc85191a290d96c4fe392a91d67150c545a460ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iron-Software-C-Coding-Challenge-Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iron-Software-C-Coding-Challenge-Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

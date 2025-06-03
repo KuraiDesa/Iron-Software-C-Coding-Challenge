@@ -3,15 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\oldphonelogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|solutionrelative:oldphonelogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|c:\\users\\rafar\\onedrive\\escritorio\\iron-software-c-coding-challenge\\iron-software-c-coding-challenge\\oldphoneinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|solutionrelative:oldphoneinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|c:\\users\\rafar\\onedrive\\escritorio\\iron-software-c-coding-challenge\\iron-software-c-coding-challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A661E3C-FBFA-4759-8DBB-6705E1076D44}|..\\Iron-Software-C-Coding-Challenge-Tests\\Iron-Software-C-Coding-Challenge-Tests.csproj|c:\\users\\rafar\\onedrive\\escritorio\\iron-software-c-coding-challenge\\iron-software-c-coding-challenge-tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|c:\\users\\rafar\\onedrive\\escritorio\\iron-software-c-coding-challenge\\iron-software-c-coding-challenge\\oldphonelogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{797F8352-9A57-4BE3-856C-66A068C558F7}|Iron-Software-C-Coding-Challenge.csproj|solutionrelative:oldphonelogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 293,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "OldPhoneLogica.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\OldPhoneLogica.cs",
               "RelativeDocumentMoniker": "OldPhoneLogica.cs",
               "ToolTip": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\OldPhoneLogica.cs",
               "RelativeToolTip": "OldPhoneLogica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAARAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T19:02:44.908Z",
               "EditorCaption": ""
@@ -39,25 +40,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge-Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\Iron-Software-C-Coding-Challenge-Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge-Tests\\UnitTest1.cs",
-              "RelativeToolTip": "..\\Iron-Software-C-Coding-Challenge-Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "OldPhoneInterface.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\OldPhoneInterface.cs",
+              "RelativeDocumentMoniker": "OldPhoneInterface.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\OldPhoneInterface.cs",
+              "RelativeToolTip": "OldPhoneInterface.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwDgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T19:02:07.646Z",
+              "WhenOpened": "2025-06-03T17:51:30.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\rafar\\OneDrive\\Escritorio\\Iron-Software-C-Coding-Challenge\\Iron-Software-C-Coding-Challenge\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T19:00:20.357Z",
               "EditorCaption": ""

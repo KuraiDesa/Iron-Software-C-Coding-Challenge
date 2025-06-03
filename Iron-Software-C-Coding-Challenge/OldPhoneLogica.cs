@@ -22,6 +22,14 @@ namespace Iron_Software_C_Coding_Challenge
             "WXYZ",
             " "
         };
+        public string OldPhoneCheckMsg(string textN)
+        {
+            if (textN.Contains("#"))
+            {
+                return OldPhonePad(textN);
+            }
+            return OldPhonePad(textN+"#");
+        }
         public string OldPhonePad(string textN)
         {
             char a = textN[0];
@@ -56,6 +64,12 @@ namespace Iron_Software_C_Coding_Challenge
                     if (res.Length > 0)
                         res = res.Substring(0, res.Length);
                     c = 0;
+                }
+                if (a1 == '0')
+                {
+                    res += " ";
+                    c = 0;
+                    a = ' ';
                 }
 
             }

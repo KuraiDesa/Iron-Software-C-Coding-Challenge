@@ -1,9 +1,10 @@
 ﻿using Iron_Software_C_Coding_Challenge;
 internal class Program
 {
+    static OldPhoneInterface interf = new OldPhoneInterface();
     private static void Main(string[] args)
     {
-        OldPhoneLogica oldPhoneLogica = new OldPhoneLogica();
+        interf.Interfaz();
         /*
         Console.WriteLine(oldPhoneLogica.OldPhonePad("8 88777444666*664#"));
         Console.WriteLine(oldPhoneLogica.OldPhonePad("44 444#"));                // HI
